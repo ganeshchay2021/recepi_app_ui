@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:recipe_app/view/on_boarding_screen/widgets/on_boarding_screen.dart';
+import 'package:recipe_app/view/onboarding/on_boarding_screen.dart';
 
 void main() {
   runApp(const MyApp());
