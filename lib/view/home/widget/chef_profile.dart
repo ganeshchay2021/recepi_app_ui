@@ -9,7 +9,7 @@ class ChefProfile extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Padding(
-      padding: EdgeInsets.all(40),
+      padding: EdgeInsets.all(25),
       child: Row(
         children: [
           Container(
